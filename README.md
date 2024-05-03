@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub)
-- Live Site URL: [](https://xxosielxx.github.io/faq-accordion)
+- Solution URL: https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub
+- Live Site URL: https://xxosielxx.github.io/faq-accordion
 
 ## My process
 
