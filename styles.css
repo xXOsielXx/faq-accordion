@@ -68,42 +68,35 @@ h1 {
 	gap: 48px;
 }
 
-.faq__question {
+summary {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	gap: 32px;
 }
 
-.faq__question h2 {
+summary h2 {
 	font-size: 1.1rem;
 	font-weight: bold;
 }
 
-.faq__question:hover {
+summary:hover {
 	cursor: pointer;
 	color: var(--magneta);
 }
 
-.faq__question button {
+summary img {
 	cursor: pointer;
-	background-color: transparent;
-	border: none;
-}
-
-.faq__question button img {
 	width: 32px;
-	vertical-align: middle;
 }
 
-.faq__answer {
+details p {
+	margin-top: 16px;
 	line-height: 24px;
-	height: 0;
-	overflow: hidden;
 	color: var(--grayish-purple);
 }
 
-.faq__answer.active {
+details p.active {
 	height: unset;
 	margin-top: 16px;
 }
