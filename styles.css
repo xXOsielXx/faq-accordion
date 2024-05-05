@@ -85,9 +85,17 @@ summary:hover {
 	color: var(--magneta);
 }
 
-summary img {
-	cursor: pointer;
+summary i {
 	width: 32px;
+	height: 32px;
+}
+
+.icon-plus {
+	background-image: url(assets/images/icon-plus.svg);
+}
+
+.icon-minus {
+	background-image: url(assets/images/icon-minus.svg);
 }
 
 details p {
