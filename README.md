@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub
-- Live Site URL: https://xxosielxx.github.io/faq-accordion
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-faq-accordion-with-html-css-and-javascript-_Fiit6hNVK
+- Live Site URL: https://xxosielxx.github.io/faq-accordion-challenge
 
 ## My process
 
